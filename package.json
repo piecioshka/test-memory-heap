@@ -1,5 +1,5 @@
 {
     "private": true,
-    "name": "test-memwatch",
+    "name": "test-memory-heap",
     "version": "0.0.0"
 }
