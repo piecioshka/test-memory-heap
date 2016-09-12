@@ -1,6 +1,6 @@
 # test-memory-heap
 
-> :ledger: Testing collections: Object, Array, Map, Set, WeakMap, WeakSet
+> :ledger: Testing memory heap when create collections: Object, Array, Map, Set, WeakMap, WeakSet
 
 ## Node.js
 
