@@ -7,16 +7,18 @@
 Use `process.memoryUsage();` in Node.js environment.
 
 ```
-node index.js
+$ node index.js
 ```
 
 ## Chromium
 
 BEFORE test run Chromium with special flag:
 
-```
-/Applications/Chromium.app/Contents/MacOS/Chromium --enable-precise-memory-info
-```
+* OSX
+
+    ```
+    /Applications/Chromium.app/Contents/MacOS/Chromium --enable-precise-memory-info
+    ```
 
 Next open file `index.html` in browser
 
