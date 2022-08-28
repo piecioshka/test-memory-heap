@@ -6,8 +6,8 @@
 
 Use `process.memoryUsage();` in Node.js environment.
 
-```
-$ node index.js
+```bash
+node index.js
 ```
 
 ## Chromium
