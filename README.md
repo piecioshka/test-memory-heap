@@ -24,4 +24,4 @@ Next open file `index.html` in browser
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2016
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
